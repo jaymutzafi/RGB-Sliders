@@ -53,7 +53,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <segue destination="LkP-7L-Nvm" kind="show" id="eDS-6W-pXe"/>
+                                    <segue destination="LkP-7L-Nvm" kind="show" identifier="openColor" id="eDS-6W-pXe"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -98,7 +98,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4yq-nL-Tp7" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1142.5" y="138.5"/>
+            <point key="canvasLocation" x="1252" y="139"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="fId-gp-EC6">
